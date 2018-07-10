@@ -1,0 +1,7 @@
+node_modules
+bin
+.DS_Store
+.idea/
+.vscode/
+backups/
+npm-debug.log

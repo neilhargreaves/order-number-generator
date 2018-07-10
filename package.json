@@ -1,0 +1,16 @@
+{
+  "name": "order-number-generator",
+  "version": "1.0.0",
+  "description": "Generate Order Numbers for Beauty Bay",
+  "main": "orderNumberGenerator.js",
+  "dependencies": {
+    "big-integer": "^1.6.31",
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beauty Bay",
+  "license": "ISC"
+}
