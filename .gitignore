@@ -1,6 +1,8 @@
 node_modules
 bin
 .DS_Store
+**/.vs/**
+**/obj/**
 .idea/
 .vscode/
 backups/
